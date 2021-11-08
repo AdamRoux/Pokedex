@@ -1,0 +1,69 @@
+[
+    {
+        "name": "Bulbizarre",
+        "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png",
+        "description": "There is a plant seed on its back right from the day this Pokémon is born. The seed slowly grows larger.",
+        "isShown": false
+    },
+    {
+        "name": "Ivysaur",
+        "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/002.png",
+        "description":"When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs.",
+        "isShown": false
+    },
+    {
+        "name": "Venusaur",
+        "url":"https://assets.pokemon.com/assets/cms2/img/pokedex/full/003.png",
+        "description":"Its plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.",
+        "isShown":false
+    },
+    {
+        "name": "Salamèche",
+        "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png",
+        "description": "It has a preference for hot things. When it rains, steam is said to spout from the tip of its tail.",
+        "isShown": false
+    },
+    {
+        "name":"Reptincel",
+        "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/005.png",
+        "description":"It has a barbaric nature. In battle, it whips its fiery tail around and slashes away with sharp claws.",
+        "isShown": false
+    },
+    {
+        "name": "Dracaufeu",
+        "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/006.png",
+        "description": "It spits fire that is hot enough to melt boulders. It may cause forest fires by blowing flames.",
+        "isShown": false
+    },
+    {
+        "name": "Carapuce",
+        "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png",
+        "description": "When it retracts its long neck into its shell, it squirts out water with vigorous force.",
+        "isShown": false
+    },
+    {
+        "name":"Carabaffe",
+        "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/008.png",
+        "description": "It is recognized as a symbol of longevity. If its shell has algae on it, that Wartortle is very old.",
+        "isShown": false
+    },
+    {
+        "name": "Tortank",
+        "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/009.png",
+        "description": "It crushes its foe under its heavy body to cause fainting. In a pinch, it will withdraw inside its shell.",
+        "isShown": false
+    },
+    {
+        "name": "Beedrill",
+        "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/015.png",
+        "description": "It has three poisonous stingers on its forelegs and its tail. They are used to jab its enemy repeatedly.",
+        "isShown": false
+    },
+    {
+        "name": "Pidgey",
+        "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/016.png",
+        "description": "Very docile. If attacked, it will often kick up sand to protect itself rather than fight back.",
+        "isShown": false
+    }
+    
+]

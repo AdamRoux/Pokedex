@@ -1,0 +1,18 @@
+<header class="header navbar">
+   
+        
+        <ul [ngClass]="{'active' : openedMobileMenu === true}" class="nav-menu">
+            <li class="nav-item ">
+                <a routerLink="" class="nav-link">Pokédex</a>
+            </li>
+            <li class="nav-item">
+                <a routerLink="create" class="nav-link">Créer un pokémon</a>
+            </li>
+        </ul>
+        <div [ngClass]="{'active' : openedMobileMenu === true}" (click)="mobileMenu()" class="hamburger">
+            <span class="bar"></span>
+            <span class="bar"></span>
+            <span class="bar"></span>
+        </div>
+
+</header>
